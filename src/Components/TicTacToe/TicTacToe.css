@@ -1,0 +1,32 @@
+.container{
+  text-align: center;
+}
+.title{
+  color: #fff;
+}
+.reset{
+  background-color: #2196F3;
+  color: #000;
+  font-size: medium;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+.boxes{
+  display: flex;
+  height: 180px;
+  width: 180px;
+  background: rgb(87, 87, 87);
+  border: 4px solid  rgb(32, 34, 44);
+  border-radius: 12px;
+  cursor: pointer;
+}
+.boxes img{
+  margin: 40px;
+}
+.board{
+  height:600px;
+  width: 564px;
+  display: flex;
+  margin: auto;
+}
